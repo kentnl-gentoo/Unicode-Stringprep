@@ -1,4 +1,4 @@
-# $Id$
+# $Id: Mapping.pm 48 2007-09-22 15:04:33Z cfaerber $
 
 package Unicode::Stringprep::Mapping;
 

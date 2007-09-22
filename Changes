@@ -5,4 +5,4 @@ Revision history for Perl extension Net::IDN::Encode
 	- based on RFC 3454, includes test vectors from Internet
 	  Draft draft-josefsson-idn-test-vectors-00.
 
-$Id$
+$Id: Changes 48 2007-09-22 15:04:33Z cfaerber $
